@@ -1,0 +1,1682 @@
+{
+    "chooseLanguage": {
+        "title": "Choose your language",
+        "subTitle": "Select your preferred language to use Go My Go easily",
+        "languageSelect1": "English",
+        "languageSelect2": "Nepali",
+        "btn": "Continue"
+    },
+    "welcomePageSelectLanguage": {
+        "title": "Welcome to Go My Go",
+        "subTitle": "Join over hundreds of operator all around nepal",
+        "btn": "Register"
+    },
+    "registerPageSection": {
+        "registerPage": {
+            "title": "Create your account",
+            "orgNameInputfield": {
+                "label": "Organization Name",
+                "placeholder": "Enter your organization name",
+                "value": "Go My Go Travels Limited"
+            },
+            "phonenumberInputfield": {
+                "label": "Phone number",
+                "placeholder": "Enter your Phone number",
+                "value": "9810",
+                "validateError": "Please enter valid phone number"
+            },
+            "continueWithPhonebtn": "Continue with phone",
+            "continueWithEmailbtn": "Register with email address",
+            "or": "or",
+            "RegwithGoogleBtn": "Register with Google",
+            "RegwithAppleBtn": "Register with Apple",
+            "AlreadyAccount": "Already have an account?",
+            "LoginText": "Login"
+        },
+        "registerWithPhoneNumber": {
+            "title": "Verify Phone Number",
+            "subTitle": "Please enter 6 digits OTP code sent to",
+            "registerNumber": "+977 98-100-00000",
+            "queryText": "Didn’t get the code?",
+            "second": "60 secs",
+            "resendBtn": "Resend",
+            "verifyBtn": "Verify",
+            "otpAlertDialog": {
+                "title": "OTP sent again",
+                "subTitle": "An OTP code was sent again to your phone number",
+                "dialogBtn": "Dismiss"
+            }
+        },
+        "createNewPassword": {
+            "title": "Create new password",
+            "subTitle": "Make sure you enter strong password",
+            "newPassword": {
+                "label": "New password",
+                "placeholder": "Enter your new password"
+            },
+            "confirmPassword": {
+                "label": "Confirm password",
+                "placeholder": "Enter your password again"
+            },
+            "passwordNotMatchError": "Your password did not match.",
+            "createPasswordBtn": "Create Password"
+        },
+        "registerWithEmail": {
+            "title": "Create your account",
+            "orgNameInputfield": {
+                "label": "Organization Name",
+                "placeholder": "Enter your organization name",
+                "value": "Go My Go Travels Limited"
+            },
+            "phonenumberInputfield": {
+                "label": "Email",
+                "placeholder": "Enter your email address",
+                "value": "info@go",
+                "hintText": "This is a hint text to help user in placeholder state.",
+                "validateError": "Please enter valid email address."
+            },
+            "continueWithEmail": "Continue with email",
+            "continueWithEmailbtn": "Register with phone number",
+            "or": "or",
+            "RegwithGoogleBtn": "Register with Google",
+            "RegwithAppleBtn": "Register with Apple",
+            "AlreadyAccount": "Already have an account?",
+            "LoginText": "Login"
+        },
+        "registerWithPhoneNumber": {
+            "title": "Verify email address",
+            "subTitle1": "Please enter 6 digits OTP code sent to",
+            "subTitle2": "or follow the link in the mail",
+            "queryText": "Didn’t get the code?",
+            "second": "60 secs",
+            "resendbtn": "Resend",
+            "verifyBtn": "Verify"
+        },
+        "createNewPassword": {
+            "title": "Create new password",
+            "subTitle": "Make sure you enter strong password",
+            "newPassword": {
+                "label": "New password",
+                "placeholder": "Enter your new password"
+            },
+            "confirmPassword": {
+                "label": "Confirm password",
+                "placeholder": "Enter your password again"
+            },
+            "passwordNotMatchError": "Your password did not match.",
+            "createPasswordBtn": "Create Password"
+        },
+        "registerInformationRequired": {
+            "title": "Information required",
+            "subTitle": "We will create an account for your organization using these information",
+            "orgNameInputField": {
+                "title": "Organization name",
+                "placeholder": "e.g. Go My Go Travels Limited",
+                "value": "Go My Go Travels Limited"
+            },
+            "confirmBtn": "Confirm",
+            "cancelBtn": "Cancel"
+        },
+        "verifyWithPhoneNoAddNumber": {
+            "title": "Add phone number",
+            "subTitle": "You need to add your mobile number before you can continue",
+            "inputPhoneNo": "Phone number",
+            "inputPhonePlaceholder": "980-00-00000"
+        },
+        "verifyWithPhoneNoVerifyNumber": {
+            "title": "Verify Phone Number",
+            "subTitle": "Please enter 6 digits OTP code sent to",
+            "queryText": "Didn’t get the code?",
+            "second": "60 secs",
+            "resendText": "Resend",
+            "btn": "Continue"
+        },
+        "registerInformationRequired": {
+            "title": "Information required",
+            "subTitle": "We will create an account for your organization using these information",
+            "orgNameInputField": {
+                "title": "Organization name",
+                "placeholder": "e.g. Go My Go Travels Limited",
+                "value": "Go My Go Travels Limited",
+                "validateError": "Please enter organization name."
+            },
+            "phoneNoInputField": {
+                "label": "Phone number",
+                "placeholder": "9810001112",
+                "value": "9810001112"
+            },
+            "confirmBtn": "Confirm",
+            "cancelBtn": "Cancel"
+        },
+        "ChangePhoneNumber": {
+            "title": "Change Phone Number",
+            "subTitle": "Enter a valid phone number so that we can send you an OTP",
+            "phoneNoInputField": {
+                "label": "Phone number",
+                "placeholder": "9810001112",
+                "value": "9810001112"
+            },
+            "confirmBtn": "Confirm",
+            "cancelBtn": "Cancel"
+        },
+        "optAlert": {
+            "title": "OTP sent again",
+            "subTitle": "An OTP code was sent again to your phone number",
+            "dialogBtn": "Dismiss"
+        }
+    },
+    "LoginPageSection": {
+        "LoginwithPhoneNo": {
+            "title": "Welcome Back!",
+            "options": [
+                "phone",
+                "Email"
+            ],
+            "phonenumberInputfield": {
+                "label": "Phone number",
+                "placeholder": "(981) 000-0000",
+                "value": "981 000-0000",
+                "validateError": "Error"
+            },
+            "passwordInputfield": {
+                "label": "Password",
+                "placeholder": "Enter your password",
+                "validateError": "Error"
+            },
+            "ForgotPassword": "Forgot password?",
+            "loginPhoneBtn": "Login with phone",
+            "loginOtpBtn": "Login with OTP",
+            "or": "or",
+            "loginwithGoogleBtn": "Login with Google",
+            "loginwithAppleBtn": "Login with Apple",
+            "dontAccount": "Don't have an account?",
+            "createAccount": "Create new account"
+        },
+        "LoginwithEmail": {
+            "title": "Welcome Back!",
+            "options": [
+                "phone",
+                "Email"
+            ],
+            "emailInputfield": {
+                "label": "Email",
+                "placeholder": "e.g, info@gomygo.com",
+                "value": "info@gomygo.com",
+                "validateError": "Error"
+            },
+            "passwordInputfield": {
+                "label": "Password",
+                "placeholder": "Enter your password",
+                "validateError": "Error"
+            },
+            "ForgotPassword": "Forgot password?",
+            "loginEmailBtn": "Login with email",
+            "loginOtpBtn": "Login with OTP",
+            "or": "or",
+            "loginwithGoogleBtn": "Login with Google",
+            "loginwithAppleBtn": "Login with Apple",
+            "dontAccount": "Don't have an account?",
+            "createAccount": "Create new account"
+        },
+        "registerWithPhoneNumber": {
+            "title": "Login with OTP",
+            "subTitle": "You will get an OTP in your phone number",
+            "phoneNumberInput": {
+                "label": "Phone number",
+                "placeholder": "Enter your phone number",
+                "value": "981 000-0000"
+            },
+            "sendotpBtn": "Send OTP"
+        },
+        "verifyWithPhoneNumber": {
+            "title": "Verify Phone Number",
+            "subTitle": "Please enter 6 digits OTP code sent to",
+            "queryText": "Didn’t get the code?",
+            "second": "60 secs",
+            "resendBtn": "Resend",
+            "sendotpBtn": "Continue"
+        },
+        "ResetPasswordWithPhoneNumber": {
+            "title": "Reset Password",
+            "subTitle": "Enter your phone number which you want to reset the password for",
+            "phoneNumberInput": {
+                "label": "Phone number",
+                "placeholder": "Enter your phone number",
+                "value": "981 000-0000"
+            },
+            "sendotpBtn": "Send OTP"
+        },
+        "verifyWithPhoneNumber": {
+            "title": "Verify Phone Number",
+            "subTitle": "Please enter 6 digits OTP code sent to",
+            "queryText": "Didn’t get the code?",
+            "second": "60 secs",
+            "resendBtn": "Resend",
+            "sendotpBtn": "Continue"
+        },
+        "PasswordChangeAlertdialog": {
+            "title": "Password Changed",
+            "subTitle": "Your password was changed successfully, you can login with new password",
+            "dialogBtn": "Dismiss"
+        },
+        "ResetPasswordWithEmail": {
+            "title": "Reset Password",
+            "subTitle": "Enter your email address which you want to reset the password for",
+            "emailInput": {
+                "label": "Email Address",
+                "placeholder": "Enter your email address",
+                "value": "info@gomygo.com"
+            },
+            "sendotpBtn": "Send OTP"
+        },
+        "verifyWithEmail": {
+            "title": "Verify email address",
+            "subTitle": "Please enter 6 digits OTP code sent to",
+            "queryText": "Didn’t get the code?",
+            "second": "60 secs",
+            "resendBtn": "Resend",
+            "sendotpBtn": "Verify"
+        }
+    },
+    "OnboardingSection": {
+        "screen1": {
+            "skipText": "skip",
+            "title": "Efficient Vehicle Management",
+            "desc": "Easily add, edit, and remove vehicles from your fleet"
+        },
+        "screen2": {
+            "skipText": "skip",
+            "title": "Create and Manage Trips",
+            "desc": "Schedule trips, set pricing, and modify as needed"
+        },
+        "screen3": {
+            "skipText": "skip",
+            "title": "Extra ordinary Seat Management",
+            "desc": "Design and assign seats to passengers effortlessly"
+        },
+        "screen4": {
+            "skipText": "skip",
+            "title": "Streamlined Booking System",
+            "desc": "Simplify booking and ticket sales with our online booking management"
+        }
+    },
+    "PermissionsSection": {
+        "Notification": {
+            "skiptext": "skip",
+            "title": "Notification Permissions",
+            "desc": "You will get notifications about new bookings or your preferred alert.",
+            "btn": "Allow Notifications Permission"
+        },
+        "Location": {
+            "skiptext": "skip",
+            "title": "Location Permissions",
+            "desc": "By allowing location permission, you can access realtime location.",
+            "btn": "Allow Location Permission"
+        },
+        "Gallery_Photos": {
+            "skiptext": "skip",
+            "title": "Photos & Videos Permissions",
+            "desc": "Gallery permission is required to add photos such as Vehicle.",
+            "btn": "Allow Gallery & Photos Permission"
+        },
+        "Camera": {
+            "skiptext": "skip",
+            "title": "Camera Permissions",
+            "desc": "This permission is required in order to capture and record photos and videos",
+            "btn": "Allow Camera Permissions"
+        }
+    },
+    "KycSection": {
+        "options": [
+            "Type",
+            "Information",
+            "Documents",
+            "Verification"
+        ],
+        "KycScreen1": {
+            "title": "Update your KYC information",
+            "subTitle": "We promise! You are just one step away from creating your first trip",
+            "passengers": {
+                "title": "Child passenger policy",
+                "desc": "Children above the age of 8 will need a ticket."
+            },
+            "btnText": "Start Verification Process"
+        },
+        "KycScreen2": {
+            "title": "Agent Type",
+            "subTitle": "Choose your organization type",
+            "passengers": {
+                "title": "Long Distance Public Transportation",
+                "sub": "Includes bus, van"
+            },
+            "btnText": "Continue"
+        },
+        "BusinessInformation1": {
+            "title": "Business Information",
+            "subTitle": "Give your business information",
+            "contactDetails": {
+                "title": "Contact details",
+                "personNameInputfield": {
+                    "label": "Contact Person Name",
+                    "placeholder": "Enter your name",
+                    "value": ""
+                },
+                "phoneNumberInputfield": {
+                    "label": "Phone number",
+                    "placeholder": "Enter your Phone number",
+                    "value": "9810"
+                },
+                "EmailInputfield": {
+                    "label": "Email Address",
+                    "placeholder": "Enter your email address",
+                    "value": "info@gmail.com"
+                }
+            },
+            "BusinessDetails": {
+                "title": "Business details",
+                "orgNameInputfield": {
+                    "label": "Organization Name",
+                    "placeholder": "Go My Go Travel Limited",
+                    "value": ""
+                },
+                "phoneNumberinputfield": {
+                    "label": "Phone number",
+                    "placeholder": "Enter your Phone number",
+                    "value": "9810"
+                },
+                "Emailinputfield": {
+                    "label": "Email Address",
+                    "placeholder": "Enter your email address",
+                    "value": "info@gmail.com"
+                }
+            }
+        },
+        "BusinessInformation2": {
+            "title": "Business Information",
+            "subtitle": "Give your business information",
+            "contactdetails": {
+                "title": "Contact details",
+                "personNameinputfield": {
+                    "label": "Contact Person Name",
+                    "placeholder": "Enter your name",
+                    "value": ""
+                },
+                "phonenumberinputfield": {
+                    "label": "Phone number",
+                    "placeholder": "Enter your Phone number",
+                    "value": "9810"
+                },
+                "EmailInputfield": {
+                    "label": "Email Address",
+                    "placeholder": "Enter your email address",
+                    "value": "info@gmail.com"
+                }
+            },
+            "BusinessDetails": {
+                "title": "Business Address Details",
+                "countrySelect": {
+                    "label": "Country",
+                    "options": [
+                        "Nepal",
+                        "india"
+                    ]
+                },
+                "stateSelect": {
+                    "label": "State",
+                    "options": [
+                        "Nepal",
+                        "india"
+                    ]
+                },
+                "cityInputfield": {
+                    "label": "city",
+                    "placeholder": "Enter your city name",
+                    "value": "ktm"
+                },
+                "zipInputfield": {
+                    "label": "Zip Code (Optional)",
+                    "placeholder": "Enter your Zip code",
+                    "value": "ktm"
+                },
+                "streetAddressInputfield": {
+                    "label": "Street Address (Optional)",
+                    "placeholder": "Enter your street address",
+                    "value": ""
+                },
+                "btntext": "Continue"
+            }
+        },
+        "KYCScreen5": {
+            "title": "Business Information",
+            "subTitle": "Give your business information",
+            "contactDetails": {
+                "title": "Contact details",
+                "personNameInputfield": {
+                    "label": "Contact Person Name",
+                    "placeholder": "Enter your name",
+                    "value": ""
+                },
+                "phonenumberInputfield": {
+                    "label": "Phone number",
+                    "placeholder": "Enter your Phone number",
+                    "value": "9810"
+                },
+                "EmailInputfield": {
+                    "label": "Email Address",
+                    "placeholder": "Enter your email address",
+                    "value": "info@gmail.com"
+                }
+            },
+            "text": "Business details",
+            "btnText": "Continue"
+        },
+        "KYCScreen6Documents": {
+            "title": "Documents",
+            "subTitle": "Upload your documents",
+            "registerVat": "We are registered in VAT",
+            "documents1": {
+                "title": "PAN/VAT registration documents",
+                "subTitle": "in progress"
+            },
+            "btnText": "Submit for verification"
+        },
+        "KycScreen7Documents": {
+            "title": "Documents",
+            "subTitle": "Upload your documents",
+            "registerVat": "I am registered in VAT",
+            "documents1": {
+                "title": "PAN/VAT registration documents",
+                "subTitle": "in progress"
+            },
+            "btnText": "Submit for verification"
+        },
+        "KycScreen7Documents": {
+            "title": "Company registration",
+            "register": "Company registration number",
+            "inputValue": "SDSDJ347674SAKJ",
+            "btnText": "Submit for verification",
+            "uploadContentFront": {
+                "title": "Front (required)",
+                "clicktoUpload": "Click to upload",
+                "text": "or drag and drop",
+                "fileFormateText": "SVG, PNG, JPG or GIF (max. 800x400px)"
+            },
+            "uploadContentBack": {
+                "title": "Back (required)",
+                "clicktoUpload": "Click to upload",
+                "text": "or drag and drop",
+                "fileFormateText": "SVG, PNG, JPG or GIF (max. 800x400px)"
+            },
+            "btnText": "Continue"
+        },
+        "KycVerificationStatus": {
+            "title": "Verification Status",
+            "subTitile": "Your request is being processed",
+            "status": "In review",
+            "shorText": "Wohoo, congrats you are almost done! Your application will be verified with 24 hours, if not please contact support.",
+            "btn": "GO"
+        },
+        "KycdashWatingReview": {
+            "topTitle": "Go My Go Travels Limited",
+            "topSubtitle": "Good morning, How are you today?",
+            "status": [
+                "review",
+                "rejected",
+                "approved"
+            ],
+            "title": [
+                "Your application is in review",
+                "Something is missing",
+                "Your application was approved"
+            ],
+            "subTitle": [
+                "We promise! You are just one step away from creating your first trip",
+                "You need to upload your company registration document clearly",
+                "You can now create your trips and more..."
+            ],
+            "btn": [
+                "Update KYC",
+                "Go Go Go - Lets Go"
+            ]
+        }
+    },
+    "Dashboard": {
+        "SidebarMenuItems": [
+            "Overview",
+            "Scheduled trips",
+            "Bookings",
+            "Boardings",
+            "Staffs",
+            "Notifications",
+            "Manage notifications"
+        ],
+        "BottomMenuItems": [
+            "Home",
+            "Bookings",
+            "Boardings",
+            "Profile"
+        ],
+        "ViewManage": [
+            "Routes",
+            "Vehicles",
+            "Trips",
+            "Bookings",
+            "Boardings",
+            "Roles",
+            "Staffs",
+            "Permissions",
+            "Policies",
+            "Help & Support",
+            "invitations"
+        ],
+        "reportsAnalytics": {
+            "title": "Ticket Sold",
+            "ticketNo": "83"
+        },
+        "ManageStaffAddvehicle": {
+            "topText": "Oops!",
+            "title": "No staff available :(",
+            "desc": "Click the button below to add new staff",
+            "btnText": "Add new staff"
+        },
+        "addStaffScreen1": {
+            "title": "Choose role",
+            "selectStaff": {
+                "placeholder": "Select role for this staff"
+            },
+            "centerTitle": "User Information",
+            "orgNameInputfield": {
+                "label": "Full Name",
+                "placeholder": "Enter full name",
+                "value": "Ram Laxman"
+            },
+            "phonenumberInputfield": {
+                "label": "Contact Number",
+                "placeholder": "Enter your Phone number"
+            },
+            "Emailinputfield": {
+                "label": "Email Address",
+                "placeholder": "Enter your email address"
+            },
+            "loginEmail": "This will be their login email",
+            "newPasswordInputfield": {
+                "label": "New Password",
+                "placeholder": "Enter new password",
+                "value": "Ram Laxman"
+            },
+            "confirmPasswordInputfield": {
+                "label": "Confirm Password",
+                "placeholder": "Enter Confirm password"
+            },
+            "ManagePermisson": {
+                "title": "Manage Permissions",
+                "Items": [
+                    "Vehicles",
+                    "View list of vehicles",
+                    "Edit vehicles",
+                    "Delete Vehicles",
+                    "Search Vehicles",
+                    "Assign Staffs to Vehicles"
+                ],
+                "btn": "Add new staff"
+            }
+        },
+        "staffFilter": {
+            "title": "Filter",
+            "RoleTitle": "Role",
+            "options": [
+                "admin",
+                "user"
+            ],
+            "staffName": {
+                "label": "Staff Name",
+                "options": [
+                    "Raju",
+                    "Name"
+                ]
+            },
+            "StaffNumber": {
+                "label": "Staff Number",
+                "options": [
+                    "9349348349",
+                    "983439434"
+                ]
+            },
+            "btn": "Show Results"
+        },
+        "searchUserPhoneno": {
+            "title": "Invite staff",
+            "phoneNumber": {
+                "label": "Phone Number",
+                "placeholder": "981034343"
+            },
+            "subText": "Phone number should exactly match their registered phone number",
+            "inviteUserEmail": "invite user by email",
+            "btnText": "Search"
+        },
+        "searchUserEmail": {
+            "title": "Invite staff",
+            "phoneNumber": {
+                "label": "Email address",
+                "placeholder": "jhon@gmail.com",
+                "errorText": "email should exactly match"
+            },
+            "btnText": "Search"
+        },
+        "addStafInvitedbyPhoneNO": {
+            "title": "Add  Staff",
+            "chooseRole": {
+                "label": "Choose role",
+                "selectTitle": "Select role for this staff",
+                "options": [
+                    "",
+                    ""
+                ]
+            },
+            "UserInformation": {
+                "leftTitle": "User Information",
+                "rightTitle": "Create staff"
+            },
+            "nickName": {
+                "label": "Nickname",
+                "placeholder": "Enter nickname"
+            },
+            "ManagePermisson": {
+                "title": "Manage Permissions",
+                "Items": [
+                    "Vehicles",
+                    "View list of vehicles",
+                    "Edit vehicles",
+                    "Delete Vehicles",
+                    "Search Vehicles",
+                    "Assign Staffs to Vehicles"
+                ],
+                "btn": "Add new staff"
+            }
+        },
+        "staffAlertdialog": {
+            "title": "Staff created successfully",
+            "subTitle1": "Staff",
+            "subTitle2": "was created successfully",
+            "dialogBtn": "Dismiss"
+        },
+        "updateStaff": {
+            "title": "Add  Staff",
+            "chooseRole": {
+                "label": "Choose role",
+                "options": [
+                    "Select role for this staff",
+                    "",
+                    ""
+                ]
+            },
+            "leftTitle": "User Information",
+            "rightTitle": "Create staff",
+            "FullNameInputField": {
+                "label": "Full Name",
+                "placeholder": "Enter full name"
+            },
+            "ContactNoInputField": {
+                "label": "Contact Number",
+                "placeholder": "Enter your Phone number"
+            },
+            "EmailAddressInputField": {
+                "label": "Email Address",
+                "placeholder": "Enter your email address"
+            },
+            "loginEmail": "This will be their login email",
+            "NewPasswordInputField": {
+                "label": "Enter new password",
+                "placeholder": "Enter full name"
+            },
+            "confirmPasswordInputField": {
+                "label": "Confirm New Password",
+                "placeholder": "Enter Confirm password"
+            },
+            "ManagePermisson": {
+                "title": "Manage Permissions",
+                "Items": [
+                    "Vehicles",
+                    "View list of vehicles",
+                    "Edit vehicles",
+                    "Delete Vehicles",
+                    "Search Vehicles",
+                    "Assign Staffs to Vehicles"
+                ],
+                "btn": "Update Staff"
+            },
+            "staffAlertdialog": {
+                "title": "Staff Updated successfully",
+                "subTitle1": "Staff",
+                "subTitle2": "was updated successfully to",
+                "dialogBtn": "Dismiss"
+            }
+        }
+    },
+    "routePageSections": {
+        "routeSections": {
+            "title": "Manage Routes",
+            "status": "Oops!",
+            "NoRoutes": "No routes available :(",
+            "shortText": "Click the button below to add new route",
+            "btnText": "Add new route"
+        },
+        "routeFilter": {
+            "title": "Filter",
+            "timeSection": {
+                "title": "time",
+                "time": [
+                    "13hours",
+                    "15hours"
+                ]
+            },
+            "From": [
+                "Kathmandu",
+                "Pokhara"
+            ],
+            "To": [
+                "Janakpur"
+            ],
+            "btntext": "Show Results"
+        },
+        "selectPlace": {
+            "title": "Select Places",
+            "AddStartRoute": {
+                "label": "Add Start Route",
+                "options": [
+                    "Start Route From"
+                ]
+            },
+            "AddEndRoute": {
+                "label": "Add End Route",
+                "options": [
+                    "End Route To"
+                ]
+            },
+            "RouteTitle": {
+                "label": "Route Title",
+                "options": [
+                    "Enter route  name"
+                ]
+            },
+            "locationPreview": {
+                "locationPreviewOptions": [
+                    "can pick",
+                    "break",
+                    "can drop"
+                ]
+            }
+        }
+    },
+    "VehicleSections": {
+        "vehicleSections": {
+            "title": "Manage Vehicle",
+            "status": "Oops!",
+            "NoRoutes": "No vehicles available :(",
+            "shortText": "Click the button below to add new vehicle",
+            "btnText": "Add new vehicle"
+        },
+        "vehicleFilter": {
+            "title": "Vehicle Name",
+            "vehicleName": {
+                "label": "vehicle Name",
+                "options": [
+                    "Tara Sitara"
+                ]
+            },
+            "VehicleNumberPlate": {
+                "label": "Vehicle Number Plate",
+                "options": [
+                    "BA 234"
+                ]
+            },
+            "Brand": {
+                "title": "Brand",
+                "options": [
+                    "Tata",
+                    "Yamaha"
+                ]
+            },
+            "makeYear": {
+                "title": "Make Year",
+                "options": [
+                    "2015",
+                    "2022"
+                ]
+            },
+            "btntext": "Show Results"
+        },
+        "ManageVehicleAddVehicle": {
+            "title": "Vehicle Type",
+            "subTitle": "Choose your vehicle type",
+            "Bus": {
+                "title": "Bus",
+                "subtitle": "Tourist, Public, Private, Long Distance"
+            },
+            "Van": {
+                "title": "Van",
+                "subtitle": "Tourist, Public, Private, Long Distance"
+            },
+            "MiniBus": {
+                "title": "Mini Bus",
+                "subtitle": "Tourist, Public, Private, Long Distance"
+            },
+            "Car": {
+                "title": "Car",
+                "subtitle": "Tourist, Public, Private, Long Distance"
+            }
+        },
+        "ManageVehicleAddVehicleSelectbrands": {
+            "title": "Vehicle Brand",
+            "subtitle": "Your vehicle brand Information",
+            "BrandSelect": {
+                "label": "Brand",
+                "options": [
+                    "Maruti Suzuki"
+                ]
+            },
+            "ModelSelect": {
+                "label": "Model",
+                "options": [
+                    "Tourister"
+                ]
+            },
+            "MakeYear": {
+                "label": "Make Year",
+                "options": [
+                    "2018"
+                ]
+            },
+            "PurchasedYear": {
+                "label": "Purchased Year",
+                "options": [
+                    "2018"
+                ]
+            },
+            "btnText": "Next"
+        },
+        "ManageVehicleAddVehicleInformation": {
+            "title": "Vehicle Information",
+            "subTitle": "Your vehicle  Information",
+            "VehicleNameInputField": {
+                "label": "Vehicle Name",
+                "placeholder": "Enter your vehicle name"
+            },
+            "vehicleNoInputField": {
+                "label": "Vehicle Number Plate",
+                "placeholder": "Enter your vehicle number plate"
+            },
+            "Color": {
+                "label": "Color",
+                "options": [
+                    "red",
+                    "Black",
+                    "blue",
+                    "red",
+                    "green",
+                    "yellow"
+                ]
+            },
+            "btntext": "Next"
+        },
+        "ManageVehicleAddVehicleVehicleFacilities": {
+            "title": "Vehicle Facilities",
+            "subTitle": "You can choose multiple Facilities that your vehicle have",
+            "options": [
+                "AC",
+                "Wifi",
+                "Pickup Facilities",
+                "Breakfast",
+                "Mineral Water"
+            ],
+            "btnText": "Next"
+        },
+        "ManagevehicleAddvehiclePhotovehicle": {
+            "pageTitle": "Manage Vehicles",
+            "title": "Vehicle Photos",
+            "subTitle": "Upload the photos of your vehicle",
+            "ProfilePicture": {
+                "label": "Profile Picture",
+                "uploadText": "Click here to upload",
+                "fileformateText": "PNG or JPG(max. 800x800px)"
+            },
+            "InteriorPhotos": "Interior photos",
+            "ExteriorPhotos": "Exterior Photos",
+            "SeatPhotos": "Seats  Photos",
+            "btntext1": "Add section",
+            "btntext2": "Next"
+        },
+        "ManagevehicleAddSection": {
+            "title": "Add Section",
+            "subtitle": "Add your preffered section",
+            "SectionTitle": {
+                "label": "Section Title",
+                "placeholder": "e.g. Seat Photos"
+            },
+            "addbtn": "Add",
+            "Cancelbtn": "Cancel"
+        },
+        "ManagevehicleAssignStaff": {
+            "title": "Assign Staff",
+            "subTitle": "Assign all the staff who will manage this vehicle",
+            "options": [
+                "Operators",
+                "Contact persons",
+                "Other Staffs"
+            ]
+        },
+        "ManageVehcileAddSections": {
+            "title": "Add Section",
+            "subTitle": "Add your preferred section",
+            "sectionTitleInputField": {
+                "label": "Section Title",
+                "placeholder": "e.g. Upper Decker"
+            },
+            "AddBtnText": "Add",
+            "CancelBtnText": "Cancel"
+        },
+        "ManagevehicleSeatinformation": {
+            "title": "Seat A1",
+            "subtitle": "Update your seat details",
+            "Priceofseat": {
+                "label": "Price of seat",
+                "placeholder": "Enter price for this seat"
+            },
+            "options": [
+                "is window seat",
+                "is folding seat",
+                "reading lights"
+            ],
+            "saveBtn": "Save",
+            "deleteBtn": "Delete Seat"
+        },
+        "Menu": [
+            "Price for all Seat",
+            "Guides",
+            "Refundable",
+            "Tutorials"
+        ],
+        "setPrice": {
+            "title": "Set Price",
+            "subtitle": "Update the price of all seats in this vehicle",
+            "priceInputField": {
+                "label": "Price",
+                "placeholder": "e.g. 2000"
+            },
+            "btnupdate": "Update",
+            "btnCancel": "Cancel"
+        },
+        "ManagePoliciesAddPolicies": {
+            "title": "T&C and Policies",
+            "CancelChargesSelections": {
+                "label": "Cancellation & Charges",
+                "options": "Select policy"
+            },
+            "ChildPassengerSelections": {
+                "label": "Child passenger",
+                "options": "Select policy"
+            },
+            "LuggageSelections": {
+                "label": "Luggage",
+                "options": "Select policy"
+            },
+            "PetsSelections": {
+                "label": "Pets",
+                "options": "Select policy"
+            },
+            "LiquorSelections": {
+                "label": "Liquor",
+                "options": "Select policy"
+            },
+            "PickupTimeSelections": {
+                "label": "Pickup Time",
+                "options": "Select policy"
+            },
+            "btntext": "Save"
+        },
+        "CancellationDropDown": [
+            "Cancellation Time and its charges",
+            "Cancellation and refund policies"
+        ],
+        "childPassengerDropDown": [
+            "Child Policy for Bus",
+            "Child Policy for Mini Bus"
+        ]
+    },
+    "TripSection": {
+        "TripSections": {
+            "title": "Manage Trips",
+            "status": "Oops!",
+            "NoRoutes": "No vehicles available :(",
+            "shortText": "Click the button below to add new trips",
+            "btnText": "Add new Trip"
+        },
+        "TripAssignStaff": {
+            "headTitle": "Manage Trips",
+            "title": "Assign Staff",
+            "subTitle": "Assign all the staff who will manage this vehicle",
+            "ContactPersons": "Contact persons"
+        },
+        "AddVehicleSeatPlan": {
+            "LowerDecker": "Lower Decker",
+            "text": "Editing this seat is only available in our app for now, please use app to edit this",
+            "btnOpenBtn": "Open App",
+            "btnNextBtn": "Next"
+        }
+    },
+    "BookingSection": {
+        "BookingSections": {
+            "title": "Manage Bookings",
+            "status": "Oops!",
+            "NoRoutes": "No vehicles available :(",
+            "shortText": "Click the button below to add new bookings",
+            "btnText": "Add new Trip"
+        },
+        "BookingDetails": {
+            "VehicleInformation": [
+                "Bus Company",
+                "Operator Name",
+                "Number",
+                "Brand",
+                "Type",
+                "Number Plate",
+                "Color"
+            ],
+            "PaymentInformation": [
+                "Transaction",
+                "Status",
+                "Method",
+                "Date",
+                "Bookin ID",
+                "Tickets",
+                "Price"
+            ],
+            "PassengerInformation": "Passenger information",
+            "viewTicketBtn": "View Tickets"
+        },
+        "ViewTicket": {
+            "title": "View Tickets",
+            "VehicleInformation": [
+                "Payment Status",
+                "Payment Method",
+                "ID Number",
+                "Bus Company",
+                "Operator Name",
+                "Number",
+                "Brand",
+                "Type",
+                "Number Plate",
+                "Color"
+            ],
+            "btnShare": "Share",
+            "downloadTicket": "Download Tickets"
+        },
+        "notification": {
+            "title": "You had paid Rs. 6,000",
+            "subtitle": "You’ll only receive 60% refund in your esewa account(9861xxxxxx)"
+        }
+    },
+    "PoliciesSections": {
+        "headTitle": "Manage Policies Type",
+        "title": "Policy type",
+        "ViewPoliciesCategories": {
+            "ChildPassenger": {
+                "title": "Cancellation",
+                "subTitle": "set charges and time"
+            },
+            "pets": {
+                "label": "Pets",
+                "options": "if passenger can bring pets or not"
+            },
+            "Liquor": {
+                "label": "Liquor",
+                "options": "policies related to liquor"
+            },
+            "Luggage": {
+                "label": "Luggage",
+                "options": "how much luggage passenger can bring"
+            },
+            "PickupTime": {
+                "label": "Pickup Time",
+                "options": "policies related to pickup time"
+            },
+            "ChildPassenger": {
+                "title": "Child Passenger",
+                "subTitle": "if passenger can bring child or not"
+            }
+        },
+        "ViewPoliciesCancellationPolicy": {
+            "title": "Cancellation Policy",
+            "subTitle": "Add new policy, so that you can use when required",
+            "btn": "Add new policy",
+            "cancellations": {
+                "title": "Cancellation Time and its charges",
+                "subTitle": "Includes bus, van"
+            },
+            "cancellationsRefunds": {
+                "title": "Cancellation and refund policies",
+                "subTitle": "Includes bus, van"
+            }
+        },
+        "ViewPoliciesCancellationTime": {
+            "pagetitle": "Manage Policies",
+            "title": "Cancellation Time and Charges",
+            "subTitle": "Edit or Continue the given cancellation policies",
+            "btntext": "Add new rule"
+        },
+        "ManagePoliciesAddPolicies": {
+            "title": "Add new Rule",
+            "subtitle": "Edit time and charges for the cancellation",
+            "FromHoursInputField": {
+                "label": "From (Hours Before)",
+                "placeholder": "e.g. 10",
+                "text": "How many hours before, from departure they can cancel tickets"
+            },
+            "ToHoursInputField": {
+                "label": "To (Hours After)",
+                "placeholder": "e.g. 72",
+                "text": "How many hours before departure they can cancel tickets"
+            },
+            "ChargePercentage": {
+                "label": "Charge percentage",
+                "placeholder": "e.g. 20",
+                "text": "How many percentage they will be charged."
+            },
+            "Description": {
+                "label": "Description",
+                "placeholder": "Enter a description..."
+            },
+            "btntext": "Save"
+        },
+        "DeleteAlertDialog": {
+            "title": "Delete",
+            "desc": "Are you sure you want to delete this policies? This action cannot be undone.",
+            "deleteBtn": "Delete",
+            "cancelBtn": "Cancel"
+        },
+        "ManagePoliciesViewPolicies1": {
+            "title": "Pet Policy",
+            "subTitle": "Add new policy, so that you can use when required",
+            "btnText": "Add new policy",
+            "PetpolicieText1": {
+                "title": "Pet Policy for Sumo",
+                "subTitle": "pet not included"
+            },
+            "PetpolicieText2": {
+                "title": "Pet Policy for Bus",
+                "subTitle": "pet included but only one"
+            }
+        },
+        "ManagePoliciesViewPolicies2": {
+            "title": "Manage Policies",
+            "titleInputField": {
+                "label": "Title",
+                "placeholder": "e.g. pet below 10 years"
+            },
+            "descriptionInputField": {
+                "label": "Description",
+                "placeholder": "Enter a description..."
+            },
+            "btnText": "Save"
+        },
+        "ManagePoliciesViewPolicies3": {
+            "title": "Liquor Policy",
+            "subTitle": "Add new policy, so that you can use when required",
+            "btnText": "Add new policy",
+            "LiquorPolicy1": {
+                "title": "Liquor Policy for Sumo",
+                "subTitle": "Includes water bottle one "
+            },
+            "LiquorPolicy2": {
+                "title": "Liquor Policy for Bus ",
+                "subTitle": "includes water bottle and wines"
+            }
+        },
+        "ManagePoliciesViewPoliciesRestrictions": {
+            "title": "Manage Policies",
+            "titleInputField": {
+                "label": "Title",
+                "placeholder": "e.g. age restrictions"
+            },
+            "descriptionInputField": {
+                "label": "Description",
+                "placeholder": "Enter a description..."
+            },
+            "btntext": "Save"
+        },
+        "ManagePoliciesViewPoliciesLuggagePolicy": {
+            "title": "Luggage Policy",
+            "subTitle": "Add new policy, so that you can use when required",
+            "btnText": "Add new policy",
+            "LuggagePolicy1": {
+                "title": "Luggage Policy for Sumo",
+                "subTitle": "Includes water bottle one "
+            },
+            "LuggagePolicy2": {
+                "title": "Liquor Policy for Bus ",
+                "subTitle": "includes water bottle and wines"
+            }
+        },
+        "ManagePoliciesViewPoliciesRestrictions": {
+            "title": "Manage Policies",
+            "titleInputField": {
+                "label": "Title",
+                "placeholder": "e.g. luggage more than 20kg weight"
+            },
+            "descriptionInputField": {
+                "label": "Description",
+                "placeholder": "Enter a description..."
+            },
+            "btnText": "Save"
+        },
+        "ManagePoliciesViewPoliciesLuggagePolicy": {
+            "title": "Pickup Time Policy",
+            "subtitle": "Add new policy, so that you can use when required",
+            "btntext": "Add new policy",
+            "PickupTimePolicy1": {
+                "title": "Pickup Time Policy before 4 pm",
+                "subTitle": "pet not included"
+            },
+            "PickupTimePolicy2": {
+                "title": "Pickup Time Policy after 4 pm",
+                "subTitle": "pet included but only one"
+            }
+        },
+        "ManagePoliciesViewPoliciesManagepolicies": {
+            "title": "Manage Policies",
+            "titleInputField": {
+                "label": "Title",
+                "placeholder": "e.g. pickup before 4 pm"
+            },
+            "descriptionInputField": {
+                "label": "Description",
+                "placeholder": "Enter a description..."
+            },
+            "btnText": "Save"
+        },
+        "ManagePoliciesViewPoliciesChildPassenger": {
+            "title": "Child Passenger",
+            "subTitle": "Add new policy, so that you can use when required",
+            "btnText": "Add new policy",
+            "ChildPassengerPolicy1": {
+                "title": "Child Policy for Sumo",
+                "subTitle": "includes sumo, hice, mini van "
+            },
+            "ChildPassengerPolicy2": {
+                "title": "Child Policy for Bus",
+                "subtitle": "includes deluxe bus, AC hus"
+            }
+        },
+        "ManagePoliciesViewPoliciesChildPassengerInputfield": {
+            "title": "Manage Policies",
+            "titleInputField": {
+                "label": "Title",
+                "placeholder": "e.g. child below 10 years"
+            },
+            "descriptionInputField": {
+                "label": "Description",
+                "placeholder": "Enter a description..."
+            },
+            "btnText": "Save"
+        }
+    },
+    "ProfileSections": {
+        "profilePage1Section": {
+            "profileMenuItem": [
+                "Personal Information",
+                "KYC",
+                "Saved Accounts",
+                "Invitations",
+                "Learn",
+                "Language",
+                "Permissions",
+                "Rate our app",
+                "Settngs",
+                "Help Center",
+                "Logout"
+            ],
+            "BottomMenuItems": [
+                "Home",
+                "Bookings",
+                "Boardings",
+                "Profile"
+            ]
+        },
+        "profilePage2Section": {
+            "title": "Personal",
+            "FullNameInputField": {
+                "label": "Full Name",
+                "placeholder": "riya"
+            },
+            "PhoneInputField": {
+                "label": "Phone",
+                "placeholder": "977-9871731313"
+            },
+            "EmailInputField": {
+                "label": "Email",
+                "placeholder": "riya@gmail.com"
+            },
+            "addressTitle": "Addresses",
+            "Country": "Country",
+            "CountryName": "Nepal",
+            "State": "State",
+            "StateName": "Bagmati",
+            "City": "City",
+            "CityName": "Kathmandu",
+            "btnGoogleAccount": "Link with Google account",
+            "btnAppleAccount": "Link Apple account",
+            "btnSaveChanges": "Save Changes"
+        },
+        "kycInfo": {
+            "title": "Contact  Details",
+            "contactDetails": [
+                "Full Name",
+                "Phone Number",
+                "Email"
+            ],
+            "BusinessAddressDetails": {
+                "title": "Business Address Details",
+                "AddDetails": [
+                    "Country",
+                    "State",
+                    "City",
+                    "Zip Code (Optional)",
+                    "Street Address (Optional)"
+                ]
+            },
+            "UpdateKYCBtn": "Update KYC"
+        },
+        "kycDocument": {
+            "title": "Citizenship (Front)",
+            "items": [
+                "Preview",
+                "Download"
+            ],
+            "btnText": "Update KYC"
+        }
+    },
+    "LearnSection": {
+        "LearnPage": {
+            "title": "Learn",
+            "subTitle": "You have not made any earnings. All your earnings will appear here.",
+            "menuItems": [
+                "All",
+                "Payment",
+                "Booking",
+                "Help Center"
+            ]
+        }
+    },
+    "SettingsSection": {
+        "Setting": {
+            "Appearance": {
+                "title": "Appearance",
+                "subtitle": "Choose your light or dark theme preference"
+            },
+            "Notification": {
+                "title": "Notification",
+                "subTitle": "Turn on Notification"
+            },
+            "Devices": {
+                "title": "Devices",
+                "subTitle": "Manage app logged in devices"
+            },
+            "CheckforUpdate": {
+                "title": "Check for Update",
+                "subTitle": "App version 1.2"
+            },
+            "AboutUs": {
+                "title": "About Us",
+                "subTitle": "Know about GomyGo"
+            },
+            "Security": {
+                "title": "Security",
+                "subtitle": "Manage your password, fingerprints,pin"
+            },
+            "DeleteAccountBtn": "Delete Account"
+        },
+        "LanguageBottomSheet": {
+            "title": "Select Appearance",
+            "colors": [
+                "Light",
+                "Dark"
+            ],
+            "DoneBtn": "Done"
+        },
+        "Notification": {
+            "PushNotifications": {
+                "title": "Push Notifications",
+                "subTitle": "Turn on Notification"
+            },
+            "Trips": {
+                "title": "Trips",
+                "subTitle": "Turn on Notification"
+            },
+            "Promotions": {
+                "title": "Promotions",
+                "subTitle": "Turn on Notification"
+            },
+            "Offers": {
+                "title": "Offers",
+                "subTitle": "Turn on Notification"
+            }
+        },
+        "Security": [
+            "Change Password",
+            "Set up fignerprint"
+        ],
+        "SecurityPassword": {
+            "title": "Change Password",
+            "subTitle": "Please select your desired wallet and amount.",
+            "passwords": [
+                "Old Password",
+                "New Password",
+                "Confirm Password"
+            ],
+            "btnText": "Save Changes",
+            "successfullyChangePasswordAlert": {
+                "title": "Successfully changed password",
+                "subTitle": "Lorem ipsum dolor sit amet consectetur adipliquid pariatur, ipsum similique veniam."
+            }
+        },
+        "DeleteAccountOverlay": {
+            "title": "Are you sure?",
+            "subTitle": "Are you sure you want to delete your account. This will delete your files and contact?",
+            "deleteBtn": "Delete",
+            "cancelBtn": "Cancel"
+        },
+        "DeleteAccountAlert": {
+            "title": "Account deleted  successfully",
+            "subTitle": "You can sign in whenever you want",
+            "signInBtn": "Sign in"
+        },
+        "fingerPrints": {
+            "title": "Use Fingerprint",
+            "suBTitle": "Aliquam scelerisque massa vel nulla finibus porttitor eu faucibus dui. Vivamus a molestie massa. Maecenas et elementum augue. ",
+            "disableFingerprint": "Disable Fingerprint",
+            "EnableFingerprint": "Enable fingerprint"
+        }
+    },
+    "HelpCenterSection": {
+        "title": "Help Center",
+        "subTitle": "Please select your desired wallet and amount.",
+        "items": [
+            "All",
+            "Earnings",
+            "Withdraw",
+            "Paid"
+        ]
+    },
+    "Permissions": {
+        "Permissions": {
+            "titles": [
+                "Notifications",
+                "Locations",
+                "Gallery",
+                "Contacts",
+                "Camera"
+            ],
+            "subTitle": "Turn on Notification",
+            "DeleteAccountBtn": "Delete Account"
+        },
+        "PermissionsNotification": {
+            "skipText": "skip",
+            "title": "Notification Permissions",
+            "desc": "You will get notifications about new bookings or your preferred alert.",
+            "btn": "Allow Notifications Permission"
+        }
+    },
+    "Invitations": {
+        "title": "Invitations",
+        "options": [
+            "Invitations",
+            "Applications"
+        ],
+        "InvitationsEmpty": {
+            "subTitle": "All the invitations you send will appear here",
+            "centerText": "Oopps ! No Invitations yet :(",
+            "btn": "Invite Agents"
+        },
+        "InvitationsFilled": {
+            "invitationSend": {
+                "title": "Invitations sent to Agent",
+                "subTitle1": "You just sent invitations to",
+                "subTitle2": "to be agent in your organizations",
+                "btnText": "View Details"
+            },
+            "invitationAccepted": {
+                "title": "Invitation accepted by Agent",
+                "subTitle1": "Agent",
+                "subTitle2": "just accepted your request to be agent in your organizations",
+                "btnText": "View Details"
+            },
+            "invitationPending": {
+                "title": "Agent invitations pending",
+                "subTitle1": "Invitations sent to",
+                "subTitle2": "is pending, you will be notify as when he will accepted the invitations",
+                "btnText": "View Details"
+            },
+            "invitationAgent": {
+                "title": "Agent invitation declined",
+                "subTitle1": "Invitations sent to",
+                "subTitle2": "is pending, you will be notify as when he will accepted the invitations",
+                "btnText": "View Details"
+            }
+        },
+        "ApplicationEmpty": {
+            "title": "Applications",
+            "subTitle": "All the applications you receive will appear here",
+            "centerText": "Oopps ! No Invitations yet :("
+        },
+        "ApplicationFilled": {
+            "title": "Agent Application",
+            "subTitle": "has sent you an application be a part of your organizations",
+            "viewDetailsBtn": "View Details"
+        },
+        "ViewAgent": {
+            "title": "Informations",
+            "subTitle": "Sorry, the page you are looking for doesn't exist.",
+            "AppliedAgent": "Applied for Agent",
+            "appliedSubTitle": "Tickets will be sent to number and email mentioned below.",
+            "profileHere": "View  their profile here",
+            "orgName": "Organization Name",
+            "document": "Documents",
+            "desc": "Descriptions"
+        },
+        "AgentProfile": {
+            "title": "Mandeep Shah",
+            "subTitle": "Swayambhu, Kathmandu",
+            "socialLinksOptions": [
+                "email",
+                "phone"
+            ],
+            "revinuesOptions": [
+                "Revenue",
+                "Employee"
+            ],
+            "agentText": "Agent for These Companies",
+            "reviewsRatings": "Reviews and Ratings",
+            "peopleLiked": "People Liked",
+            "options": [
+                "Fast Ticketing",
+                "Cleanliness",
+                "Seat Comfort",
+                "Staff behavior"
+            ],
+            "viewallReview": "View all reviews"
+        },
+        "inviteAgent": {
+            "options": [
+                "Driver",
+                "Conductor",
+                "Ticketer"
+            ]
+        },
+        "AssociateAgentForm": {
+            "pageTitle": "Vacancy details",
+            "title": "Vacancy for Driver",
+            "btnApply": "Apply"
+        }
+    },
+    "saveAccountSection": {
+        "title": "Saved Accounts",
+        "options": [
+            "Wallets",
+            "Bank Accounts"
+        ],
+        "saveAccountEmpty1": {
+            "digitalWallet": "Digital Wallet",
+            "subTitle": "You have not made any earnings. All your earnings will appear here.",
+            "centerText": "Oopps ! No Earning yet :(",
+            "centerSubText": "You have not made any earnings. All your earnings will appear here.",
+            "AdddigitalWalletBtn": "Add digital wallet"
+        },
+        "saveAccountEmpty2": {
+            "BankAccount": "Bank Account",
+            "subTitle": "You have not made any earnings. All your earnings will appear here.",
+            "centerText": "Oopps ! No Earning yet :(",
+            "centerSubText": "You have not made any earnings. All your earnings will appear here.",
+            "AdddigitalWalletBtn": "Add bank account"
+        },
+        "LinkedAccountEmpty": {
+            "pageTitle": "Add wallet",
+            "title": "Add digital wallet",
+            "subTitle": "Tickets will be sent to number and email mentioned below.",
+            "chooseWalletInputField": {
+                "label": "Choose wallet",
+                "options": [
+                    "eSewa"
+                ]
+            },
+            "accountNameInputField": {
+                "label": "Account Name",
+                "placeholder": "sandeep@kushfintech.com"
+            },
+            "phoneNoInputField": {
+                "label": "Phone Number",
+                "placeholder": "+977 9861xxxxxx"
+            },
+            "text": "Lorem ipsum dolor sit, consectetur adipiscing ei. Cras tempor lorem, at pretium ipsum dictum."
+        },
+        "LinkedAccountFilled": {
+            "pageTitle": "Add bank account",
+            "title": "Add you bank",
+            "subTitle": "Tickets will be sent to number and email mentioned below.",
+            "ChoosebankSelectedField": {
+                "label": "Choose wallet",
+                "options": [
+                    "Sunrise Bank Pvt. Ltd."
+                ]
+            },
+            "accountNameInputField": {
+                "label": "Account Name",
+                "placeholder": "sandeep@kushfintech.com"
+            },
+            "phoneNoInputField": {
+                "label": "Phone Number",
+                "placeholder": "+977 9861xxxxxx"
+            },
+            "text": "Lorem ipsum dolor sit, consectetur adipiscing ei. Cras tempor lorem, at pretium ipsum dictum."
+        }
+    }
+}
